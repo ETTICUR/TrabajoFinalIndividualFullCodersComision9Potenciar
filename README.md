@@ -20,14 +20,13 @@ Crear una aplicación sencilla y amigable que facilite las tareas de un showroom
 
 _Requisitos Funcionales_ 
 
-Si la compra es mayor a 100 unidades, realizar un descuento del 15% en el pago.
-Si la cantidad comprada es mayor a 500 unidades, realizar un descuento del 30% en el pago.,
+Si la compra es mayor a 100 unidades, realizar un descuento del 15% en el pago. Para que el precio sea mejor que la competencia cuando sea el volumen que deseamos en cada pedido.
 
 
 _Diseño de Interfaz de Usuario_ 
 
 Consultar al usuario cuantas unidades desea comprar.
-Calcular el precio de la compra, e indicarle a cuantas unidades se encuentra de la promoción más cercana (siempre y cuando la diferencia de unidades sea menos de 25 unidades, por ejemplo si compro 80 unidades, decirle que si compra 20 más tendrá un descuento).
+Calcular el precio de la compra, e indicarle a cuantas unidades se encuentra de la promoción más cercana (por ejemplo si compro 80 unidades, decirle que si compra 20 más tendrá un descuento).
 
 _Metodologías ágiles trabajadas en el desarrollo_
 
